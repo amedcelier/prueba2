@@ -1,0 +1,52 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#galeria{
+	width: 1024px;
+	height: 800px;
+	margin: 2em auto;
+	background-color: #000000;
+}
+#foto1{
+	height: 95%;
+	width: 46%;
+	background: #d17031;
+	border-radius: 1em;
+	margin: 1em;
+	float: left;
+}
+
+#foto2{
+	height: 95%;
+	width: 46%;
+	background: #d17031;
+	border-radius: 1em;
+	margin: 1em;
+	float: right;
+}
+#imagen1{
+	height: 45%;
+	width: 95%;
+	
+	border-radius: 1em;
+	margin: 0.5em;
+	float: right;
+}
+#imagen2{
+	height: 45%;
+	
+	
+	border-radius: 1em;
+	margin: 0.5em;
+
+}
+#texto1{
+	height: 45%;
+	width: 95%;
+	
+	border-radius: 1em;
+	margin: 0.5em;
+	float: right;
+}
